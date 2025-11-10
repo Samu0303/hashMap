@@ -1,6 +1,6 @@
-# Simple map in C
+# hashMap
 
-This minimal library implements a very simple map in C The map is implemented
+This minimal library implements a very simple map in C. The map is implemented
 with an Hash table, while the  collision are resolved with concatenation. 
 In this map, keys are strings (char*) and values are again strings.
 This is a minimalist choice, the value could be void *, in this way with some 
